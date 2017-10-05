@@ -395,3 +395,7 @@
 [submodule "src/github.com/inconshreveable/mousetrap"]
 	path = src/github.com/inconshreveable/mousetrap
 	url = https://github.com/inconshreveable/mousetrap
+[submodule "src/github.com/cloudfoundry-incubator/credhub-cli"]
+	path = src/github.com/cloudfoundry-incubator/credhub-cli
+	url = https://github.com/idoru/credhub-cli
+	branch = interpolate-api
